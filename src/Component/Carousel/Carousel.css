@@ -1,0 +1,10 @@
+@media only screen and (max-width: 600px) {
+    .captionCarousel>h3 {
+        margin-top: 125px !important;
+        font-size: 2rem;
+    }
+}
+.imageSlide{
+    width: 100% !important;
+    height: 10% !important;
+}

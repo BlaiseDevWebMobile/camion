@@ -1,0 +1,7 @@
+.cardAds{
+    display: flex;
+    flex-direction: row;
+}
+.imgCard{
+    width: 30%;
+}

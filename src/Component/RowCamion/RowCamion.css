@@ -1,0 +1,27 @@
+.leftImagel{
+    width: 100%;
+}
+.mainPhoto{
+    margin-top: 5rem;
+    justify-items: center;
+    justify-content: center;
+}
+
+@media only screen and (max-width: 576px){
+    .rightImage{
+        margin-top: 5px;
+    }
+}
+.title{
+    color: #43c6ee;
+    text-align: center;
+    padding-top: 5em;
+
+}
+.prix{
+    color: #43c6ee;
+}
+.footerCard{
+    text-align: center ;
+    color: orange;
+}
